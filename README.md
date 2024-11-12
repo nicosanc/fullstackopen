@@ -1,3 +1,3 @@
 ## Hello!
-## All exercises are on this private repository, separated by Directory
+## I made this Public so that it is easier to work with!
 
